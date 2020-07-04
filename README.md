@@ -9,4 +9,4 @@ A Mobile App to help banks to predict quickly whether the loan will be  approved
 
 2) cleantest.csv and cleantrain.csv contains the dataset which is ready for model development.
 
-   The Data-Analysis notebook contains the analysis part.
+3) the Data-Analysis notebook contains the analysis part.
